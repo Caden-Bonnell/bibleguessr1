@@ -12,6 +12,7 @@ go to bibleguessr directory via
 ```bash
 cd Flask/bibleguessr
 ```
+run
 
 ```bash
 pip install -r requirements.txt
