@@ -7,6 +7,11 @@ Make sure you have the latest version of Python installed.
 ```bash
 git clone <repo-url>
 ```
+go to bibleguessr directory via 
+
+```bash
+cd Flask/bibleguessr
+```
 
 ```bash
 pip install -r requirements.txt
